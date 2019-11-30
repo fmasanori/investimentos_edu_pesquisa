@@ -9,3 +9,5 @@ Esta análise de microdados permite observar essa retração tão divulgada nas 
 Para tal, microdados do Censo Anual da Educação Superior, disponíveis no site do INEP (http://inep.gov.br/microdados), 
 foram utilizados. O período analisado inicia em 2010, quando os valores de investimentos em Pesquisa 
 e Desenvolvimento passaram a ser contabilizados, e finda em 2018, ano do último censo.
+
+![Repo List](graph.png)
